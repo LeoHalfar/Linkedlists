@@ -24,48 +24,7 @@ class DlinkedList {
 
         System.out.println(total / 100 + "ns");
 
-        /*
-         * int[] ar1 = unsorted(10000);
-         * 
-         * long total1 = 0;
-         * long t2 = System.nanoTime();
-         * DlinkedList b = new DlinkedList();
-         * long t3 = System.nanoTime();
-         * total1 = (t3 - t2);
-         * System.out.println(total1);
-         */
-        /*
-         * b.add(6);
-         * b.add(8);
-         * b.add(7);
-         * 
-         * list.add(3);
-         * list.add(4);
-         * list.add(5);
-         * 
-         * if (list.find(4)) {
-         * System.out.println("finns");
-         * }
-         * 
-         * int längd = list.length();
-         * System.out.println(längd + "/////");
-         * 
-         * //list.remove(5);
-         * list.show();
-         * 
-         * System.out.println("///////////");
-         */
-
-        /*
-         * long total = 0;
-         * long t0 = System.nanoTime();
-         * arrayap(ar1,ar2);
-         * // list.append(b);
-         * long t1 = System.nanoTime();
-         * total = (t1 - t0);
-         * System.out.println(total);
-         */
-        // list.show();
+        
     }
 
     void insert(Cell dos) {
